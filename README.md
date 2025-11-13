@@ -15,7 +15,7 @@ My goal is to grow as a skilled Data Analyst and contribute to data-driven decis
 
 ---
 
-## skills
+##   Skills
 - **Data Tools:** Excel, Power BI, Tableau  
 - **Languages:** SQL, Python (pandas, numpy)  
 - **Concepts:** Data Cleaning, Data Modeling, DAX, ETL Process, KPI Development
