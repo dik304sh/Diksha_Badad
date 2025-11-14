@@ -17,7 +17,7 @@ A highly analytical and driven Data Analyst dedicated to transforming raw data i
 - **Core Concepts**: Data Modeling (Star/Snowflake Schema), ETL/ELT Processes, KPI Development,Data Validation.
 ---
 
-## Featured Projects
+## 📁Featured Projects
 
 ### Data Analytics Projects – STAR Method
 
