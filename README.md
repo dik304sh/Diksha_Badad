@@ -19,34 +19,32 @@ A highly analytical and driven Data Analyst dedicated to transforming raw data i
 
 ## Featured Projects
 
-# 📊 Data Analytics Projects – STAR Method
+# Data Analytics Projects – STAR Method
 
-## ⭐ 1. Adventure Works Sales Dashboard
+## 1. Adventure Works Sales Dashboard
 
-**📌 Situation:** Adventure Works required insights into their overall sales performance.  
-**🎯 Task:** Analyze sales trends, customer patterns, and product performance.  
-**⚙️ Action:** Cleaned data, built a data model, and created an interactive Power BI dashboard using DAX.  
-**🏆 Result:** Provided KPIs, top products/customers, regional insights, and monthly trends to support data-driven decisions.
-
----
-
-## ⭐ 2. Bank Analytics Dashboard
-
-**📌 Situation:** The bank needed visibility into loan performance and customer risk.  
-**🎯 Task:** Analyze loan approvals, defaults, customer segments, and business KPIs.  
-**⚙️ Action:** Performed data cleaning in Excel, validated KPIs using SQL, and built a Power BI dashboard.  
-**🏆 Result:** Delivered insights on default rate, total loan disbursed, customer behavior, and monthly loan trends.
+**Situation:** Adventure Works required insights into their overall sales performance.  
+**Task:** Analyze sales trends, customer patterns, and product performance.  
+**Action:** Cleaned data, built a data model, and created an interactive Power BI dashboard using DAX.  
+**Result:** Provided KPIs, top products/customers, regional insights, and monthly trends to support data-driven decisions.
 
 ---
 
-## ⭐ 3. Bank Debit & Credit Dashboard
+## 2. Bank Analytics Dashboard
 
-**📌 Situation:** The bank wanted insights into customer debit and credit transaction activity.  
-**🎯 Task:** Analyze transaction volume, top customers, and spending trends.  
-**⚙️ Action:** Modeled and visualized data in Power BI with KPIs and interactive visuals.  
-**🏆 Result:** Highlighted top 5 customers, monthly transaction patterns, and spending categories for strategic decisions.
+**Situation:** The bank needed visibility into loan performance and customer risk.  
+**Task:** Analyze loan approvals, defaults, customer segments, and business KPIs.  
+**Action:** Performed data cleaning in Excel, validated KPIs using SQL, and built a Power BI dashboard.  
+**Result:** Delivered insights on default rate, total loan disbursed, customer behavior, and monthly loan trends.
 
 ---
+
+## 3. Bank Debit & Credit Dashboard
+
+**Situation:** The bank wanted insights into customer debit and credit transaction activity.  
+**Task:** Analyze transaction volume, top customers, and spending trends.  
+**Action:** Modeled and visualized data in Power BI with KPIs and interactive visuals.  
+**Result:** Highlighted top 5 customers, monthly transaction patterns, and spending categories for strategic decisions.
 
 ---
 
